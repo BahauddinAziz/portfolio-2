@@ -16,19 +16,19 @@ const presentation: Presentation = {
   title: "Hi, I’m Bahauddin 👋",
   // profile: "/profile.webp",
   description:
-    "Hello, I'm a *tech entrepreneur* with over *5 years* of experience in *building and scaling B2B and B2C SaaS*. I am experienced in both writing code and selling products.",
+    "I'm a tech entrepreneur who's building and scaling SaaS startups for more than 5 years. I help early stage SaaS startups to *build the product*, *talk to customers* and *generate sales*.",
   socials: [
     {
       label: "Reddit",
-      link: "https://twitter.com/itsstormzz_",
+      link: "https://www.reddit.com/user/BahauddinA",
     },
     {
       label: "LinkedIn",
-      link: "https://bento.me/m-wolff",
+      link: "https://www.linkedin.com/in/bahauddinaziz/",
     },
     {
       label: "X",
-      link: "https://github.com/MaeWolff",
+      link: "https://twitter.com/bahauddinAz",
     },
   ],
 };
