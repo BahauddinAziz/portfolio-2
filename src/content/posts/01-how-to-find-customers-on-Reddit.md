@@ -19,12 +19,23 @@ In this blog, I share insights from an experiment I conducted to explore the pot
 
 ### Hypothesis
 - Reddit users are more active compared to other platforms.
+
+<br>
+
 - High-ticket businesses and influential decision-makers are present on Reddit.
+
+<br>
+
 - Engaging on Reddit is straightforward and quick, even for newcomers.
+
 
 ### Methodology
 I posted similar queries on different subreddits to test these hypotheses:
+
 1. [Post 1: r/SaaS](https://www.reddit.com/r/SaaS/comments/192kvdy/do_people_really_get_customers_on_reddit/)
+
+<br>
+
 2. [Post 2: r/agency](https://www.reddit.com/r/agency/comments/192ryth/does_anyone_here_generate_leads_from_reddit/)
 
 These posts allowed me to engage with over **50 individuals** through comments and direct messages (DMs).
@@ -33,21 +44,33 @@ These posts allowed me to engage with over **50 individuals** through comments a
 
 1. **Join Relevant Subreddits**: Focus on subreddits where your or your product's expertise is most applicable.
 
+<br>
+
 2. **Engage Actively**: Contribute by answering questions and offering valuable insights.
 
+<br>
+
 3. **Build Reputation**: Consistent engagement enhances recognition within the community.
+
+<br>
 
 4. **Leverage DMs for Business Opportunities**: As your reputation grows, users may reach out via DMs for solutions, leading to potential business transactions.
 
 ### Key Insight: The Value of Adding Value
 - The most common success factor cited by those who made money on Reddit was simply adding value.
 
+<br>
+
 - Engaging with the right posts and building a reputation over time was crucial.
+
+<br>
 
 - Active participation also served as a form of SEO, generating leads from posts commented on years ago.
 
 ### Monetary Results
 - Earnings ranged from a minimum of $15 (from a subscription to an app) to a maximum of $20,000.
+
+<br>
 
 - Major brands are also starting to use Reddit as a customer growth channel.
 
@@ -55,9 +78,16 @@ These posts allowed me to engage with over **50 individuals** through comments a
 
 - I plan to apply these learnings over the next week and will share the results in a follow-up post.
 
+<br>
+
 - Additionally, I'm starting a community for individuals interested in learning about customer acquisition on Reddit.
 
+
+<br>
+
 *Community Link: [Coming Soon]*
+
+<br>
 
 ### Some references
 
