@@ -19,6 +19,10 @@ const presentation: Presentation = {
     "I'm a tech entrepreneur who's building and scaling SaaS startups for more than 5 years. I help early stage SaaS startups to *build the product*, *talk to customers* and *generate sales*.",
   socials: [
     {
+      label: "Book a FREE Discovery Call",
+      link: "https://calendly.com/hello-vh0/discovery-call-with-ba",
+    },
+    {
       label: "Reddit",
       link: "https://www.reddit.com/user/BahauddinA",
     },
