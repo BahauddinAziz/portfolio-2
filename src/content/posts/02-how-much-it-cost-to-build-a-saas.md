@@ -1,5 +1,5 @@
 ---
-title: "How much it costs to build a SaaS"
+title: "How Much it Costs to Build a SaaS"
 publishedAt: 2024-01-11
 description: "Demystifying MVP Development Costs: A Practical Guide for Startups"
 slug: "how-much-it-cost-to-build-a-saas"
