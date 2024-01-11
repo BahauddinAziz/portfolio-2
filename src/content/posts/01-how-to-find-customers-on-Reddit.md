@@ -1,5 +1,5 @@
 ---
-title: "How to find customers on Reddit"
+title: "How to Find Customers on Reddit"
 publishedAt: 2024-01-10
 description: "A comprehensive guide backed by real data on finding customers and making money on Reddit."
 slug: "how-to-find-customers-on-reddit"
